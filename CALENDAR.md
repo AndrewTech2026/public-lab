@@ -12,13 +12,12 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 
 ## Shipped outside the weekly theme
 
-- **2026-10-20** — [`notes/research-vs-execution.md`](notes/research-vs-execution.md): a research process does not share an order path with the execution process. Live scanner stays private. Next public step is a fixture on **2026-11-16** (see [`NEXT.md`](NEXT.md)).
+- **2026-10-20** — [`notes/research-vs-execution.md`](notes/research-vs-execution.md): a research process does not share an order path with the execution process. Live scanner stays private. Next public steps are every ~3 days through **2026-10-31** (see [`NEXT.md`](NEXT.md)).
 
-## Weekly ritual (after week 4, keep forever)
+## Cadence
 
-1. **Private:** one concrete agent improvement (bugfix, test, or ops alert).
-2. **Public:** one commit in `public-lab` or `agent-ops` that captures the lesson (no secrets).
-3. **Profile:** leave pins as-is unless a new public repo clearly deserves a slot.
+- **Now through 2026-10-31:** one real public commit about every 3 days. Dates are in [`NEXT.md`](NEXT.md).
+- **After that:** twice a week. Still one private improvement and one sanitized lesson. No empty green-square commits.
 
 ## Anti-goals
 
