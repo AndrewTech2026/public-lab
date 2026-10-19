@@ -12,7 +12,8 @@ How I keep `AndrewTech2026` useful instead of empty.
 
 - [x] Bio states direction (AI products / agents)
 - [x] Profile README explains who / what / where to look
-- [x] Pins: profile README + `public-lab` (add `agent-ops` when ready)
+- [x] Pins: profile README + `public-lab`
+- [ ] Pin `agent-ops` (https://github.com/AndrewTech2026/agent-ops) when you want the CLI on the profile
 - [ ] Keep private work private; publish only sanitized lessons
 
 ## What goes public vs private

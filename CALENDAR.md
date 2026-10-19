@@ -24,6 +24,7 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 
 ## Done when (end of week 4)
 
-- [ ] Calendar weeks 1–4 each have a matching public commit
+- [x] Week 1 public commits landed (calendar + 2 notes)
+- [ ] Calendar weeks 2–4 each have a matching public commit
 - [ ] `agent-ops` README: install → run `doctor` on the included sample fixtures in &lt; 2 minutes
 - [ ] Profile pins include `public-lab` + `agent-ops` (drop profile-repo pin if you only want 2 product signals)
