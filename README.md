@@ -4,7 +4,7 @@ Open notes and tiny experiments I can share without leaking private product or t
 
 ## Cadence
 
-See [`CALENDAR.md`](CALENDAR.md) — 4-week plan, then keep shipping weekly.
+See [`CALENDAR.md`](CALENDAR.md) for the 4-week plan and [`NEXT.md`](NEXT.md) for dates.
 
 **Rule:** every public note comes from real agent / product work that week (sanitized). Private systems keep improving; public repos get the lesson, not the secrets.
 
@@ -16,6 +16,7 @@ See [`CALENDAR.md`](CALENDAR.md) — 4-week plan, then keep shipping weekly.
 | [`notes/github-ops.md`](notes/github-ops.md) | How I run this GitHub account |
 | [`notes/week1-local-vs-live-state.md`](notes/week1-local-vs-live-state.md) | Week 1: never trust local state alone |
 | [`notes/week1-kill-switch-shape.md`](notes/week1-kill-switch-shape.md) | Week 1: kill switch that actually blocks |
+| [`notes/research-vs-execution.md`](notes/research-vs-execution.md) | Research process never places orders |
 | [`checklists/agent-hardening.md`](checklists/agent-hardening.md) | Pre-flight before an agent touches money or production |
 | sibling: [`agent-ops`](https://github.com/AndrewTech2026/agent-ops) | Runnable CLI: cron inventory + heartbeat + armed flag |
 
@@ -27,4 +28,4 @@ See [`CALENDAR.md`](CALENDAR.md) — 4-week plan, then keep shipping weekly.
 
 ## Status
 
-Seeded 2026-10-19. Week 1 notes + calendar added 2026-10-19.
+Seeded 2026-10-19. Research-vs-execution note added 2026-10-20.

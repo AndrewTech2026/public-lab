@@ -10,6 +10,10 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 | **3** | Stops & exchange truth | 1 note: local state vs live orders | `check-config` for JSON schema of protect rules (no exchange keys) | SL/TP path regression on paper or tiny size |
 | **4** | One demo strangers can run | Short “how I use agent-ops in a week” | Release tag `v0.1.0` + GIF or asciinema in README | Pick one reliability win; write the public summary |
 
+## Shipped outside the weekly theme
+
+- **2026-10-20** — [`notes/research-vs-execution.md`](notes/research-vs-execution.md): a research process does not share an order path with the execution process. Live scanner stays private. Next public step is a fixture on **2026-11-16** (see [`NEXT.md`](NEXT.md)).
+
 ## Weekly ritual (after week 4, keep forever)
 
 1. **Private:** one concrete agent improvement (bugfix, test, or ops alert).
