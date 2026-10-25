@@ -14,6 +14,7 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 
 - **2026-10-20** — [`notes/research-vs-execution.md`](notes/research-vs-execution.md): a research process does not share an order path with the execution process. Live scanner stays private. Next public steps are every ~3 days through **2026-10-31** (see [`NEXT.md`](NEXT.md)).
 - **2026-10-23** — [`notes/week2-process-up-not-healthy.md`](notes/week2-process-up-not-healthy.md) + `agent-ops` v0.1.1 (warn/hard heartbeat ages, launchd sample).
+- **2026-10-25** — [`notes/week3-local-state-vs-live-orders.md`](notes/week3-local-state-vs-live-orders.md) + `agent-ops` v0.1.2 (`check-config`).
 
 ## Cadence
 
@@ -30,6 +31,7 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 
 - [x] Week 1 public commits landed (calendar + 2 notes)
 - [x] Week 2 public commit landed (process up ≠ healthy + agent-ops v0.1.1)
-- [ ] Calendar weeks 3–4 each have a matching public commit
+- [x] Week 3 public commit landed (local state vs live orders + agent-ops v0.1.2)
+- [ ] Calendar week 4 has a matching public commit
 - [ ] `agent-ops` README: install → run `doctor` on the included sample fixtures in &lt; 2 minutes
 - [ ] Profile pins include `public-lab` + `agent-ops` (drop profile-repo pin if you only want 2 product signals)

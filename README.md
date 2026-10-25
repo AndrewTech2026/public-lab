@@ -18,6 +18,7 @@ See [`CALENDAR.md`](CALENDAR.md) for the 4-week plan and [`NEXT.md`](NEXT.md) fo
 | [`notes/week1-kill-switch-shape.md`](notes/week1-kill-switch-shape.md) | Week 1: kill switch that actually blocks |
 | [`notes/research-vs-execution.md`](notes/research-vs-execution.md) | Research process never places orders |
 | [`notes/week2-process-up-not-healthy.md`](notes/week2-process-up-not-healthy.md) | Week 2: process up ≠ healthy |
+| [`notes/week3-local-state-vs-live-orders.md`](notes/week3-local-state-vs-live-orders.md) | Week 3: local state ≠ live orders |
 | [`checklists/agent-hardening.md`](checklists/agent-hardening.md) | Pre-flight before an agent touches money or production |
 | sibling: [`agent-ops`](https://github.com/AndrewTech2026/agent-ops) | Runnable CLI: cron inventory + heartbeat + armed flag |
 
