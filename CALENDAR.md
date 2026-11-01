@@ -16,6 +16,7 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 - **2026-10-23** — [`notes/week2-process-up-not-healthy.md`](notes/week2-process-up-not-healthy.md) + `agent-ops` v0.1.1 (warn/hard heartbeat ages, launchd sample).
 - **2026-10-25** — [`notes/week3-local-state-vs-live-orders.md`](notes/week3-local-state-vs-live-orders.md) + `agent-ops` v0.1.2 (`check-config`).
 - **2026-10-28** — [`notes/week4-agent-ops-week-in-the-life.md`](notes/week4-agent-ops-week-in-the-life.md) + agent-ops README demo refresh.
+- **2026-11-01** — [`samples/research-brief/`](samples/research-brief/) + [`notes/research-brief-fixture.md`](notes/research-brief-fixture.md) (fake events → brief; no exchange client).
 
 ## Cadence
 

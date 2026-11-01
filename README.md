@@ -20,6 +20,8 @@ See [`CALENDAR.md`](CALENDAR.md) for the 4-week plan and [`NEXT.md`](NEXT.md) fo
 | [`notes/week2-process-up-not-healthy.md`](notes/week2-process-up-not-healthy.md) | Week 2: process up ≠ healthy |
 | [`notes/week3-local-state-vs-live-orders.md`](notes/week3-local-state-vs-live-orders.md) | Week 3: local state ≠ live orders |
 | [`notes/week4-agent-ops-week-in-the-life.md`](notes/week4-agent-ops-week-in-the-life.md) | Week 4: how I use agent-ops in a week |
+| [`samples/research-brief/`](samples/research-brief/) | Fake events → brief text (no exchange client) |
+| [`notes/research-brief-fixture.md`](notes/research-brief-fixture.md) | Why the research fixture exists |
 | [`checklists/agent-hardening.md`](checklists/agent-hardening.md) | Pre-flight before an agent touches money or production |
 | sibling: [`agent-ops`](https://github.com/AndrewTech2026/agent-ops) | Runnable CLI: cron inventory + heartbeat + armed flag |
 

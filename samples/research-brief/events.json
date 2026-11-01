@@ -1,0 +1,33 @@
+{
+  "as_of": "2026-10-31T12:00:00Z",
+  "events": [
+    {
+      "id": "e1",
+      "kind": "macro",
+      "headline": "US CPI print came in cooler than consensus",
+      "tags": ["inflation", "rates"],
+      "importance": 0.8
+    },
+    {
+      "id": "e2",
+      "kind": "crypto",
+      "headline": "Major exchange announced scheduled maintenance window",
+      "tags": ["ops", "liquidity"],
+      "importance": 0.4
+    },
+    {
+      "id": "e3",
+      "kind": "crypto",
+      "headline": "L2 fee spike during peak hours on EXAMPLE chain",
+      "tags": ["fees", "congestion"],
+      "importance": 0.6
+    },
+    {
+      "id": "e4",
+      "kind": "noise",
+      "headline": "Anonymous account posts unverified rumor",
+      "tags": ["rumor"],
+      "importance": 0.1
+    }
+  ]
+}
