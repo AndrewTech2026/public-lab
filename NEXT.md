@@ -18,6 +18,7 @@ After that: twice a week is enough. Do not farm empty commits.
 - 2026-10-25 — week 3: local state vs live orders; `agent-ops` v0.1.2 `check-config`
 - 2026-10-28 — week 4: how I use agent-ops in a week; README demo refresh
 - 2026-11-01 — research brief fixture (`samples/research-brief/`), no exchange client
+- 2026-11-04 — acceptance: agent draft, human fill (`notes/acceptance-agent-draft-human-fill.md`)
 
 ## After 2026-10-31
 
@@ -25,5 +26,5 @@ Two public commits a week (for example Tuesday and Friday). Same rule: one priva
 
 | When (BJT) | Ping | Public deliverable |
 |------------|------|--------------------|
-| **2026-11-04** | 「养 github」 | Small note or agent-ops polish from real ops that week |
+| **2026-11-04** ✓ shipped | 「养 github」 | Note: agent draft + human fill for SKIP/PARTIAL; stale overview trap |
 | **2026-11-07** | 「养 github」 | Second weekly public commit |

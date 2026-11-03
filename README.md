@@ -22,6 +22,7 @@ See [`CALENDAR.md`](CALENDAR.md) for the 4-week plan and [`NEXT.md`](NEXT.md) fo
 | [`notes/week4-agent-ops-week-in-the-life.md`](notes/week4-agent-ops-week-in-the-life.md) | Week 4: how I use agent-ops in a week |
 | [`samples/research-brief/`](samples/research-brief/) | Fake events → brief text (no exchange client) |
 | [`notes/research-brief-fixture.md`](notes/research-brief-fixture.md) | Why the research fixture exists |
+| [`notes/acceptance-agent-draft-human-fill.md`](notes/acceptance-agent-draft-human-fill.md) | Agent drafts acceptance; human fills SKIP/PARTIAL |
 | [`checklists/agent-hardening.md`](checklists/agent-hardening.md) | Pre-flight before an agent touches money or production |
 | sibling: [`agent-ops`](https://github.com/AndrewTech2026/agent-ops) | Runnable CLI: cron inventory + heartbeat + armed flag |
 
@@ -33,4 +34,4 @@ See [`CALENDAR.md`](CALENDAR.md) for the 4-week plan and [`NEXT.md`](NEXT.md) fo
 
 ## Status
 
-Seeded 2026-10-19. Research-vs-execution note added 2026-10-20.
+Seeded 2026-10-19. Twice-a-week cadence after 2026-10-31; latest public lesson 2026-11-04.
