@@ -18,6 +18,7 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 - **2026-10-28** — [`notes/week4-agent-ops-week-in-the-life.md`](notes/week4-agent-ops-week-in-the-life.md) + agent-ops README demo refresh.
 - **2026-11-01** — [`samples/research-brief/`](samples/research-brief/) + [`notes/research-brief-fixture.md`](notes/research-brief-fixture.md) (fake events → brief; no exchange client).
 - **2026-11-04** — [`notes/acceptance-agent-draft-human-fill.md`](notes/acceptance-agent-draft-human-fill.md) (agent draft + human fill; overview is not SSOT).
+- **2026-11-08** — [`notes/prelaunch-ops-honest-metrics.md`](notes/prelaunch-ops-honest-metrics.md) (honest metrics, invite gate, public incident page).
 
 ## Cadence
 
