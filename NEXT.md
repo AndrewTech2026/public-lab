@@ -20,6 +20,7 @@ After that: twice a week is enough. Do not farm empty commits.
 - 2026-11-01 — research brief fixture (`samples/research-brief/`), no exchange client
 - 2026-11-04 — acceptance: agent draft, human fill (`notes/acceptance-agent-draft-human-fill.md`)
 - 2026-11-08 — pre-launch ops: honest metrics / invite gate / public incidents (`notes/prelaunch-ops-honest-metrics.md`)
+- 2026-11-14 — agent draft → human publish gate (`notes/agent-draft-human-publish-gate.md`)
 
 ## After 2026-10-31
 
@@ -29,4 +30,5 @@ Two public commits a week (for example Tuesday and Friday). Same rule: one priva
 |------------|------|--------------------|
 | **2026-11-04** ✓ shipped | 「养 github」 | Note: agent draft + human fill for SKIP/PARTIAL; stale overview trap |
 | **2026-11-07** ✓ shipped 11-08 | 「养 github」 | Note: pre-launch honest metrics, invite gate, public incident board |
-| **2026-11-11** | 「养 github」 | Next twice-weekly public commit |
+| **2026-11-11** ✓ shipped 11-14 | 「养 github」 | Note: agent drafts content, humans publish (immutable `vN` + review gate) |
+| **2026-11-18** | 「养 github」 | Next twice-weekly public commit |

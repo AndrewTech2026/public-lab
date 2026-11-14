@@ -19,6 +19,7 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 - **2026-11-01** — [`samples/research-brief/`](samples/research-brief/) + [`notes/research-brief-fixture.md`](notes/research-brief-fixture.md) (fake events → brief; no exchange client).
 - **2026-11-04** — [`notes/acceptance-agent-draft-human-fill.md`](notes/acceptance-agent-draft-human-fill.md) (agent draft + human fill; overview is not SSOT).
 - **2026-11-08** — [`notes/prelaunch-ops-honest-metrics.md`](notes/prelaunch-ops-honest-metrics.md) (honest metrics, invite gate, public incident page).
+- **2026-11-14** — [`notes/agent-draft-human-publish-gate.md`](notes/agent-draft-human-publish-gate.md) (agent drafts; human publishes; immutable `vN`).
 
 ## Cadence
 
@@ -37,5 +38,5 @@ Parallel track (private): keep hardening the real agent stack every week; publis
 - [x] Week 2 public commit landed (process up ≠ healthy + agent-ops v0.1.1)
 - [x] Week 3 public commit landed (local state vs live orders + agent-ops v0.1.2)
 - [x] Week 4 public commit landed (agent-ops week-in-the-life + README demo refresh)
-- [ ] `agent-ops` README: install → run `doctor` on the included sample fixtures in &lt; 2 minutes
-- [ ] Profile pins include `public-lab` + `agent-ops` (drop profile-repo pin if you only want 2 product signals)
+- [x] `agent-ops` README: install → run `doctor` on the included sample fixtures in &lt; 2 minutes
+- [x] Profile pins include `public-lab` + `agent-ops` (+ profile README)
