@@ -26,6 +26,7 @@ See [`CALENDAR.md`](CALENDAR.md) for the 4-week plan and [`NEXT.md`](NEXT.md) fo
 | [`notes/prelaunch-ops-honest-metrics.md`](notes/prelaunch-ops-honest-metrics.md) | Pre-launch: no fake zeros, invite gate, public incidents |
 | [`notes/agent-draft-human-publish-gate.md`](notes/agent-draft-human-publish-gate.md) | Agent drafts content; humans publish; immutable `vN` |
 | [`notes/empty-state-zero-is-not-done.md`](notes/empty-state-zero-is-not-done.md) | Empty state: zero activity ≠ all done |
+| [`notes/preview-capability-is-not-container.md`](notes/preview-capability-is-not-container.md) | Preview capability ≠ container capability |
 | [`checklists/agent-hardening.md`](checklists/agent-hardening.md) | Pre-flight before an agent touches money or production |
 | sibling: [`agent-ops`](https://github.com/AndrewTech2026/agent-ops) | Runnable CLI: cron inventory + heartbeat + armed flag |
 
@@ -37,4 +38,4 @@ See [`CALENDAR.md`](CALENDAR.md) for the 4-week plan and [`NEXT.md`](NEXT.md) fo
 
 ## Status
 
-Seeded 2026-10-19. Twice-a-week cadence after 2026-10-31; latest public lesson 2026-11-21.
+Seeded 2026-10-19. Twice-a-week cadence after 2026-10-31; latest public lesson 2026-11-25.

@@ -22,6 +22,7 @@ After that: twice a week is enough. Do not farm empty commits.
 - 2026-11-08 — pre-launch ops: honest metrics / invite gate / public incidents (`notes/prelaunch-ops-honest-metrics.md`)
 - 2026-11-14 — agent draft → human publish gate (`notes/agent-draft-human-publish-gate.md`)
 - 2026-11-21 — empty state: zero activity ≠ all done (`notes/empty-state-zero-is-not-done.md`)
+- 2026-11-25 — preview capability ≠ container capability (`notes/preview-capability-is-not-container.md`)
 
 ## After 2026-10-31
 
@@ -33,4 +34,5 @@ Two public commits a week (for example Tuesday and Friday). Same rule: one priva
 | **2026-11-07** ✓ shipped 11-08 | 「养 github」 | Note: pre-launch honest metrics, invite gate, public incident board |
 | **2026-11-11** ✓ shipped 11-14 | 「养 github」 | Note: agent drafts content, humans publish (immutable `vN` + review gate) |
 | **2026-11-18** ✓ shipped 11-21 | 「养 github」 | Note: empty state — zero activity is not “all done” |
-| **2026-11-25** | 「养 github」 | Next twice-weekly public commit |
+| **2026-11-25** ✓ shipped | 「养 github」 | Note: preview capability ≠ container capability |
+| **2026-11-28** | 「养 github」 | Next twice-weekly public commit |
